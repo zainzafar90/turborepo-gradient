@@ -1,0 +1,14 @@
+{
+  "name": "cli-gradient",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.1.0",
+    "gradient-string": "^2.0.2"
+  }
+}
